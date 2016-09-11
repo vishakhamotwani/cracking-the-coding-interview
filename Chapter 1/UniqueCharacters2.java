@@ -13,6 +13,8 @@ public class UniqueCharacters2
         hasUniqueChars("happy");
         hasUniqueChars("Malibu");
         hasUniqueChars("Unique");
+        hasUniqueChars("hell");
+
     }
 
     public static void hasUniqueChars (String str)
